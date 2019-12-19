@@ -1,0 +1,4 @@
+pip install itk
+pip install os-sys
+pip install numpy
+pip install tkfilebroswer // conda install -c anaconda tk
